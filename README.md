@@ -5,10 +5,10 @@
 
 - ## Pré-requisitos
 
- Para executar os projetos é necessário ter instalado [Node.js](https://nodejs.org/en/), [Git](https://git-scm.com).
+ Para executar o projeto é necessário ter instalado [Node.js](https://nodejs.org/en/) e [Git](https://git-scm.com).
 
 
-- ### Baixando o projeto
+- ## Baixando o projeto
 
 ```bash
 # Clone este repositório
@@ -17,7 +17,7 @@ $ git clone https://github.com/silva-vagner/C214-Tarefa-Design-Pattern
 ```
 
 
-## Executando o projeto
+- ## Executando o projeto
 #### No terminal, inserir o comando:
 ```bash
 $ node Factory.js
